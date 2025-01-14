@@ -1,2 +1,2 @@
-# Portifolio
-Portfólio onde colocarei meus projetos
+# Portfólio de Análise de Dados
+Olá! Meu nome é Alex Martins e sou um profissional com sólida experiência em administração e contabilidade atualmente em especialização em Analista de Dados pela EBAC – Escola Britânica de Artes Criativas e Tecnologia Utilizo Python, SQL e ferramentas de análise de dados como Pandas, Matplotlib, Seaborn, Numpy, AWS, Looker e GitHub. Experiência com machine learning para previsão e otimização de processos. Possuo perfil analítico, orientação para resultados e melhoria de processos, proatividade e facilidade de aprendizado.
